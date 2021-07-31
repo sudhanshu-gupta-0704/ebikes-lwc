@@ -9,7 +9,7 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment
-        >Action override created by Lightning App Builder on activation. Added manually because this isn't registered by force:source:pull.</comment>
+        >Action overri121212de created by Lightning App Builder on activation. Added manually because this isn't registered by force:source:pull.</comment>
         <content>Account_Record_Page</content>
         <formFactor>Large</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
